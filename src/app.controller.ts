@@ -13,4 +13,3 @@ export class AppController {
 }
 
 //mysql -u root -p --port 3306 (para rodar o BD no terminal)
-//ok
